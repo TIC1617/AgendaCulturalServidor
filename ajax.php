@@ -1,6 +1,6 @@
 <?php
 	/* Includes */
-	include "EventsValidationController.php";
+	include "controllers/EventsValidationController.php";
 	
 	/* Ajax options */
 	switch ($_POST['action']){
